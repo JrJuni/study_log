@@ -1,0 +1,3 @@
+# Today's Study Log
+1. Streamlit 설치 및 실행
+2. 주요 기능 살피기
